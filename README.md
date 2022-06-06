@@ -5,12 +5,12 @@
 #### 4
 ##### 5
 ###### 6
-
+![KakaoTalk_20220521_172354414_13](https://user-images.githubusercontent.com/96982279/172133085-859a43b9-c2b6-4bc2-945f-2a20405d2947.jpg)
 # -2022년 라트톤-
-## 2022년도 라트톤에서 프로토타입 코드와 대회 1, 2, 3등 팀들의 코드 입니다.
+## 2022년도 라트톤에서 사용된 맵과 점수표 테스트에서 사용한 테스트 코드와 영상, 1위 팀의 코드와 영상, 그리고 2 3위 팀의 코드 입니다.
 
 ## <2022년 라트톤 맵&점수표>
-![KakaoTalk_20220521_172354414_13](https://user-images.githubusercontent.com/96982279/172133085-859a43b9-c2b6-4bc2-945f-2a20405d2947.jpg)
+![KakaoTalk_20220521_172354414_13](https://user-images.githubusercontent.com/96982279/172140711-874e14fe-bd33-4a65-9770-497e26a4fb44.jpg)
 ![점수표_1](https://user-images.githubusercontent.com/96982279/171007370-79298aa6-de3d-4f94-a18a-433ee284f8fa.png)
 ![점수표_2](https://user-images.githubusercontent.com/96982279/171007390-6ab71bb8-0fff-40bd-808d-907cd385c8d1.png)
 
