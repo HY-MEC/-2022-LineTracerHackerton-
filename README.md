@@ -18,3 +18,4 @@
 
 ### 2. 터널 구간: 터널 진입시 LED를 On하고, 터널 빠져나오면 LED를 OFF하는 구간입니다. 조도 센서를 활용하여 센서 값에 따라 LED를 ON/OFF할 수 있도록 합니다. 대회 시녕시 공간의 조도 상황에 따라 값이 변할 수 있기 때문에 항상 시연전 조도 센서 값 확인이 중요합니다.
 
+[![Video Label](http://img.youtube.com/vi/AOSvpo0OTgg/0.jpg)](https://youtu.be/AOSvpo0OTgg)
