@@ -10,7 +10,7 @@
 ## 2022년도 라트톤에서 프로토타입 코드와 대회 1, 2, 3등 팀들의 코드 입니다.
 
 ## <2022년 라트톤 맵&점수표>
-![2022  라트톤 맵 r2](https://user-images.githubusercontent.com/96982279/171003376-f06800af-e009-46cc-855f-0c6e535236e4.png)
+![KakaoTalk_20220521_172354414_13](https://user-images.githubusercontent.com/96982279/172133085-859a43b9-c2b6-4bc2-945f-2a20405d2947.jpg)
 ![점수표_1](https://user-images.githubusercontent.com/96982279/171007370-79298aa6-de3d-4f94-a18a-433ee284f8fa.png)
 ![점수표_2](https://user-images.githubusercontent.com/96982279/171007390-6ab71bb8-0fff-40bd-808d-907cd385c8d1.png)
 
@@ -18,7 +18,3 @@
 
 ### 2. 터널 구간: 터널 진입시 LED를 On하고, 터널 빠져나오면 LED를 OFF하는 구간입니다. 조도 센서를 활용하여 센서 값에 따라 LED를 ON/OFF할 수 있도록 합니다. 대회 시녕시 공간의 조도 상황에 따라 값이 변할 수 있기 때문에 항상 시연전 조도 센서 값 확인이 중요합니다.
 
-
-<video width="480" height="320" controls="controls">
-  <source src="주행 테스트.mp4" type="video/mp4">
-</video>
