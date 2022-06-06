@@ -45,6 +45,7 @@ https://user-images.githubusercontent.com/96982279/172136958-212015d4-4b5a-41d1-
 
 
 ## <2022년 라트톤 1위팀 영상>
+https://user-images.githubusercontent.com/96982279/172143944-cc1461ab-9181-444e-9dea-45ef224435ba.mp4
 #### 해당 영상은 2022 라트톤 1위 팀이었던 1조의 주행 영상 입니다.
 
 
